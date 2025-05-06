@@ -1,0 +1,95 @@
+﻿  anttweakbar_wrapper.cpp
+D:\GenPD\GenPD\source\anttweakbar_wrapper.h(33,10): error C1083: 无法打开包括文件: “AntTweakBar.h”: No such file or directory
+  camera.cpp
+  (编译源文件“source/anttweakbar_wrapper.cpp”)
+  
+D:\GenPD\GenPD\source\openGL_headers.h(34,10): error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  (编译源文件“source/camera.cpp”)
+  
+  constraint.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/constraint.cpp”)
+  
+  constraint_attachment.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/constraint_attachment.cpp”)
+  
+  constraint_penalty.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/constraint_penalty.cpp”)
+  
+  constraint_spring.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/constraint_spring.cpp”)
+  
+  constraint_tet.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/constraint_tet.cpp”)
+  
+  fps.cpp
+  glsl_wrapper.cpp
+D:\GenPD\GenPD\source\openGL_headers.h(34,10): error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  (编译源文件“source/glsl_wrapper.cpp”)
+  
+  handle.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/handle.cpp”)
+  
+  io_mesh.cpp
+D:\GenPD\GenPD\source\io_mesh.h(37,10): error C1083: 无法打开包括文件: “glm.hpp”: No such file or directory
+  (编译源文件“source/io_mesh.cpp”)
+  
+  main.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/main.cpp”)
+  
+  math_headers.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/math_headers.cpp”)
+  
+  matlab_debugger.cpp
+D:\GenPD\GenPD\source\timer_wrapper.h(93,11): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(97,11): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(108,12): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(113,12): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+  mesh.cpp
+D:\GenPD\GenPD\source\opengl_headers.h(34,10): error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  (编译源文件“source/mesh.cpp”)
+  
+  primitive.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/primitive.cpp”)
+  
+  scene.cpp
+D:\GenPD\GenPD\source\openGL_headers.h(34,10): error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  (编译源文件“source/scene.cpp”)
+  
+  selection_tool.cpp
+D:\GenPD\GenPD\source\opengl_headers.h(34,10): error C1083: 无法打开包括文件: “GL/glew.h”: No such file or directory
+  (编译源文件“source/selection_tool.cpp”)
+  
+  simulation.cpp
+D:\GenPD\GenPD\source\simulation.cpp(35,10): error C1083: 无法打开包括文件: “Eigen/Eigenvalues”: No such file or directory
+  tensor_math.cpp
+D:\GenPD\GenPD\source\math_headers.h(34,10): error C1083: 无法打开包括文件: “Eigen/Core”: No such file or directory
+  (编译源文件“source/tensor_math.cpp”)
+  
+  正在生成代码...
+  正在编译...
+  svd3x3.cpp
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.h(11,10): error C1083: 无法打开包括文件: “Eigen/Dense”: No such file or directory
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+  WunderSVD3x3.cpp
+D:\GenPD\GenPD\source\wunderSVD\WunderSVD3x3.h(1,10): error C1083: 无法打开包括文件: “Eigen/Dense”: No such file or directory
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+  正在生成代码...

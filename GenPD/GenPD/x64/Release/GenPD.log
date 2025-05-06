@@ -1,0 +1,18 @@
+﻿  matlab_debugger.cpp
+D:\GenPD\GenPD\source\timer_wrapper.h(93,11): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(97,11): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(108,12): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(113,12): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+  正在生成代码
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 22362 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  GenPD.vcxproj -> D:\GenPD\x64\Release\GenPD.exe

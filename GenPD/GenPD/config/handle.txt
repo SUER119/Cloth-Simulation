@@ -1,0 +1,23 @@
+HandleNum   3
+
+Color       0.3 1 0.3
+RotationCenter -4.875 8 -5
+Translation 0 0 0
+Rotation 1 0 0 0
+VerticesNum 3
+0 81 162 
+
+Color       0.3 1 0.3
+RotationCenter -0.4375 8 -5
+Translation 0 0 0
+Rotation 1 0 0 0
+VerticesNum 2
+2916 2997 
+
+Color       0.3 1 0.3
+RotationCenter 4.875 8 -5
+Translation 0 0 0
+Rotation 1 0 0 0
+VerticesNum 3
+6318 6399 6480 
+

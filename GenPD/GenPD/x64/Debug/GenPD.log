@@ -1,0 +1,447 @@
+﻿  anttweakbar_wrapper.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/anttweakbar_wrapper.cpp”)
+  
+  camera.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/camera.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/camera.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/camera.cpp”)
+  
+D:\GenPD\GenPD\source\camera.cpp(52,12): warning C4305: “=”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\camera.cpp(211,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\camera.cpp(218,12): warning C4244: “初始化”: 从“genType”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\camera.cpp(218,12): warning C4244:         with
+D:\GenPD\GenPD\source\camera.cpp(218,12): warning C4244:         [
+D:\GenPD\GenPD\source\camera.cpp(218,12): warning C4244:             genType=double
+D:\GenPD\GenPD\source\camera.cpp(218,12): warning C4244:         ]
+D:\GenPD\GenPD\source\camera.cpp(315,10): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\camera.cpp(322,12): warning C4244: “初始化”: 从“genType”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\camera.cpp(322,12): warning C4244:         with
+D:\GenPD\GenPD\source\camera.cpp(322,12): warning C4244:         [
+D:\GenPD\GenPD\source\camera.cpp(322,12): warning C4244:             genType=double
+D:\GenPD\GenPD\source\camera.cpp(322,12): warning C4244:         ]
+  constraint.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/constraint.cpp”)
+  
+  constraint_attachment.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/constraint_attachment.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/constraint_attachment.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/constraint_attachment.cpp”)
+  
+D:\GenPD\GenPD\source\constraint_attachment.cpp(71,17): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_attachment.cpp(109,30): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_attachment.cpp(192,36): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  constraint_penalty.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/constraint_penalty.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/constraint_penalty.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/constraint_penalty.cpp”)
+  
+D:\GenPD\GenPD\source\constraint_penalty.cpp(90,18): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_penalty.cpp(147,31): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  constraint_spring.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/constraint_spring.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/constraint_spring.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/constraint_spring.cpp”)
+  
+D:\GenPD\GenPD\source\constraint_spring.cpp(81,18): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_spring.cpp(147,51): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_spring.cpp(181,30): warning C4305: “初始化”: 从“double”到“ScalarType”截断
+  constraint_tet.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/constraint_tet.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/constraint_tet.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/constraint_tet.cpp”)
+  
+D:\GenPD\GenPD\source\constraint_tet.cpp(69,15): warning C4244: “return”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(81,20): warning C4244: “return”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(105,30): warning C4244: “return”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(155,18): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(228,32): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(235,37): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(263,39): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(270,33): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(274,27): warning C4244: “+=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(283,20): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(289,25): warning C4244: “+=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(294,18): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(298,23): warning C4244: “+=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(455,30): warning C4305: “初始化”: 从“double”到“ScalarType”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(514,20): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(514,20): warning C4244:         with
+D:\GenPD\GenPD\source\constraint_tet.cpp(514,20): warning C4244:         [
+D:\GenPD\GenPD\source\constraint_tet.cpp(514,20): warning C4244:             Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+D:\GenPD\GenPD\source\constraint_tet.cpp(514,20): warning C4244:         ]
+D:\GenPD\GenPD\source\constraint_tet.cpp(521,23): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(522,26): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(523,29): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(633,9): warning C4244: “return”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(689,15): warning C4305: “=”: 从“double”到“ScalarType”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(719,30): warning C4305: “=”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(787,38): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(823,20): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(824,23): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(825,25): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(897,18): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(898,21): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(931,39): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(939,33): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(944,27): warning C4244: “+=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(955,20): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(963,25): warning C4244: “+=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(968,18): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(969,21): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(978,23): warning C4244: “+=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1052,23): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(1053,26): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(1054,29): warning C4305: “参数”: 从“double”到“const float”截断
+D:\GenPD\GenPD\source\constraint_tet.cpp(1065,65): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1072,19): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1076,63): warning C4244: “参数”: 从“double”转换到“const Scalar”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1076,63): warning C4244:         with
+D:\GenPD\GenPD\source\constraint_tet.cpp(1076,63): warning C4244:         [
+D:\GenPD\GenPD\source\constraint_tet.cpp(1076,63): warning C4244:             Scalar=ScalarType
+D:\GenPD\GenPD\source\constraint_tet.cpp(1076,63): warning C4244:         ]
+D:\GenPD\GenPD\source\constraint_tet.cpp(1077,71): warning C4244: “参数”: 从“double”转换到“const Scalar”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1077,71): warning C4244:         with
+D:\GenPD\GenPD\source\constraint_tet.cpp(1077,71): warning C4244:         [
+D:\GenPD\GenPD\source\constraint_tet.cpp(1077,71): warning C4244:             Scalar=ScalarType
+D:\GenPD\GenPD\source\constraint_tet.cpp(1077,71): warning C4244:         ]
+D:\GenPD\GenPD\source\constraint_tet.cpp(1078,71): warning C4244: “参数”: 从“double”转换到“const Scalar”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1078,71): warning C4244:         with
+D:\GenPD\GenPD\source\constraint_tet.cpp(1078,71): warning C4244:         [
+D:\GenPD\GenPD\source\constraint_tet.cpp(1078,71): warning C4244:             Scalar=ScalarType
+D:\GenPD\GenPD\source\constraint_tet.cpp(1078,71): warning C4244:         ]
+D:\GenPD\GenPD\source\constraint_tet.cpp(1081,58): warning C4244: “参数”: 从“double”转换到“const Scalar”，可能丢失数据
+D:\GenPD\GenPD\source\constraint_tet.cpp(1081,58): warning C4244:         with
+D:\GenPD\GenPD\source\constraint_tet.cpp(1081,58): warning C4244:         [
+D:\GenPD\GenPD\source\constraint_tet.cpp(1081,58): warning C4244:             Scalar=ScalarType
+D:\GenPD\GenPD\source\constraint_tet.cpp(1081,58): warning C4244:         ]
+D:\GenPD\GenPD\source\constraint_tet.cpp(1314,44): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+  fps.cpp
+  glsl_wrapper.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/glsl_wrapper.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/glsl_wrapper.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/glsl_wrapper.cpp”)
+  
+D:\GenPD\GenPD\source\glsl_wrapper.cpp(192,30): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  handle.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/handle.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/handle.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/handle.cpp”)
+  
+D:\GenPD\GenPD\source\handle.cpp(186,16): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\handle.cpp(210,64): warning C4305: “参数”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\handle.cpp(210,38): warning C4305: “参数”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\handle.cpp(210,12): warning C4305: “参数”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\handle.cpp(277,11): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“int”，可能丢失数据
+D:\GenPD\GenPD\source\handle.cpp(277,11): warning C4244:         with
+D:\GenPD\GenPD\source\handle.cpp(277,11): warning C4244:         [
+D:\GenPD\GenPD\source\handle.cpp(277,11): warning C4244:             Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+D:\GenPD\GenPD\source\handle.cpp(277,11): warning C4244:         ]
+  io_mesh.cpp
+  main.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/main.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/main.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/main.cpp”)
+  
+  math_headers.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/math_headers.cpp”)
+  
+D:\GenPD\GenPD\source\math_headers.cpp(43,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(56,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244: “参数”: 从“Eigen::EigenBase<Derived>::Index”转换到“const StorageIndex”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:             Derived=Eigen::SparseMatrix<ScalarType,0,int>
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:         and
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:             StorageIndex=IndexType
+D:\GenPD\GenPD\source\math_headers.cpp(90,51): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(97,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(97,16): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(97,16): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(97,16): warning C4244:             Derived=Eigen::SparseMatrix<ScalarType,0,int>
+D:\GenPD\GenPD\source\math_headers.cpp(97,16): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(98,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(98,16): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(98,16): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(98,16): warning C4244:             Derived=Eigen::SparseMatrix<ScalarType,0,int>
+D:\GenPD\GenPD\source\math_headers.cpp(98,16): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(115,21): warning C4244: “=”: 从“const StorageIndex”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(115,21): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(115,21): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(115,21): warning C4244:             StorageIndex=IndexType
+D:\GenPD\GenPD\source\math_headers.cpp(115,21): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(118,6): warning C4244: “参数”: 从“ScalarType”转换到“Eigen::EigenBase<Derived>::Index”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(118,6): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(118,6): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(118,6): warning C4244:             Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+D:\GenPD\GenPD\source\math_headers.cpp(118,6): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(130,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(130,16): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(130,16): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(130,16): warning C4244:             Derived=Eigen::SparseMatrix<ScalarType,0,int>
+D:\GenPD\GenPD\source\math_headers.cpp(130,16): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(131,16): warning C4244: “初始化”: 从“Eigen::EigenBase<Derived>::Index”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(131,16): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(131,16): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(131,16): warning C4244:             Derived=Eigen::SparseMatrix<ScalarType,0,int>
+D:\GenPD\GenPD\source\math_headers.cpp(131,16): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(146,21): warning C4244: “=”: 从“const StorageIndex”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(146,21): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(146,21): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(146,21): warning C4244:             StorageIndex=IndexType
+D:\GenPD\GenPD\source\math_headers.cpp(146,21): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(143,18): warning C4101: “val”: 未引用的局部变量
+D:\GenPD\GenPD\source\math_headers.cpp(163,20): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(176,20): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244: “参数”: 从“Eigen::EigenBase<Derived>::Index”转换到“_Ty”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:             Derived=Eigen::Matrix<float,-1,-1,0,-1,-1>
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:         and
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:             _Ty=unsigned int
+D:\GenPD\GenPD\source\math_headers.cpp(198,37): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244: “参数”: 从“Eigen::EigenBase<Derived>::Index”转换到“_Ty”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:             Derived=Eigen::Matrix<float,-1,1,0,-1,1>
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:         and
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:             _Ty=unsigned int
+D:\GenPD\GenPD\source\math_headers.cpp(215,37): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244: “参数”: 从“Eigen::EigenBase<Derived>::Index”转换到“const StorageIndex”，可能丢失数据
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:         with
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:             Derived=Eigen::SparseMatrix<ScalarType,0,int>
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:         ]
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:         and
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:         [
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:             StorageIndex=int
+D:\GenPD\GenPD\source\math_headers.cpp(233,59): warning C4244:         ]
+  matlab_debugger.cpp
+D:\GenPD\GenPD\source\timer_wrapper.h(93,11): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(97,11): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(108,12): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+D:\GenPD\GenPD\source\timer_wrapper.h(113,12): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+  (编译源文件“source/matlab_debugger.cpp”)
+  
+  mesh.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/mesh.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/mesh.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/mesh.cpp”)
+  
+D:\GenPD\GenPD\source\mesh.cpp(127,14): warning C4244: “参数”: 从“int”转换到“GLfloat”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(289,16): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(290,16): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(291,16): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(354,27): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(378,19): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(379,19): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\mesh.cpp(615,27): warning C4244: “初始化”: 从“double”转换到“ScalarType”，可能丢失数据
+  primitive.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/primitive.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/primitive.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.cpp(54,10): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(108,45): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(142,17): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(170,23): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(202,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(202,44): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(281,32): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(308,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(308,47): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(367,38): warning C4244: “=”: 从“double”转换到“ScalarType”，可能丢失数据
+D:\GenPD\GenPD\source\primitive.cpp(597,26): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  scene.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/scene.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/scene.cpp”)
+  
+  selection_tool.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/selection_tool.cpp”)
+  
+D:\GenPD\GenPD\source\primitive.h(118,40): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“source/selection_tool.cpp”)
+  
+D:\GenPD\GenPD\source\constraint.h(317,46): warning C4305: “初始化”: 从“double”到“const ScalarType”截断
+  (编译源文件“source/selection_tool.cpp”)
+  
+D:\GenPD\GenPD\source\selection_tool.cpp(147,15): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\GenPD\GenPD\source\selection_tool.cpp(245,31): warning C4018: “<”: 有符号/无符号不匹配
+D:\GenPD\GenPD\source\selection_tool.cpp(374,30): warning C4018: “<”: 有符号/无符号不匹配
+D:\GenPD\GenPD\source\selection_tool.cpp(409,64): warning C4305: “参数”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\selection_tool.cpp(409,38): warning C4305: “参数”: 从“double”到“float”截断
+D:\GenPD\GenPD\source\selection_tool.cpp(409,12): warning C4305: “参数”: 从“double”到“float”截断
+  simulation.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/simulation.cpp”)
+  
+D:\GenPD\GenPD\source\simulation.cpp(307,28): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+      D:\GenPD\GenPD\source\simulation.cpp(307,28):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\GenPD\GenPD\source\simulation.cpp(311,28): warning C4477: “sprintf_s”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+      D:\GenPD\GenPD\source\simulation.cpp(311,28):
+      请考虑在格式字符串中使用“%zd”
+  
+D:\GenPD\GenPD\source\simulation.cpp(1276,7): warning C4101: “ignore”: 未引用的局部变量
+D:\GenPD\GenPD\source\simulation.cpp(1868,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\GenPD\GenPD\source\simulation.cpp(1929,13): warning C4101: “beta”: 未引用的局部变量
+D:\GenPD\GenPD\source\simulation.cpp(1964,13): warning C4101: “current_energy”: 未引用的局部变量
+D:\GenPD\GenPD\source\simulation.cpp(2033,13): warning C4101: “current_energy”: 未引用的局部变量
+D:\GenPD\GenPD\source\simulation.cpp(3265,24): warning C4101: “lhs_g”: 未引用的局部变量
+D:\GenPD\GenPD\source\simulation.cpp(3265,31): warning C4101: “rhs_g”: 未引用的局部变量
+  tensor_math.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/tensor_math.cpp”)
+  
+  正在生成代码...
+  正在编译...
+  tinyxml2.cpp
+  svd3x3.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(61,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+      D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(61,40):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(67,20):
+          查看对正在编译的函数 模板 实例化“void igl::svd3x3<float>(const Eigen::Matrix<float,3,3,0,3,3> &,Eigen::Matrix<float,3,3,0,3,3> &,Eigen::Matrix<float,3,1,0,3,1> &,Eigen::Matrix<float,3,3,0,3,3> &)”的引用
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(61,31): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(62,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(62,31): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(63,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(63,33): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(78,1): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(79,1): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“source/wunderSVD/svd3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(28,2): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(29,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(30,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(31,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(32,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(33,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(34,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(35,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+D:\GenPD\GenPD\source\wunderSVD\svd3x3.cpp(36,3): warning C4244: “=”: 从“const double”转换到“float”，可能丢失数据
+  WunderSVD3x3.cpp
+D:\Libs\Eigen_3_3_1\Eigen\src\Core\arch\CUDA\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(61,40): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+      D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(61,40):
+      模板实例化上下文(最早的实例化上下文)为
+          D:\GenPD\GenPD\source\wunderSVD\WunderSVD3x3.cpp(60,15):
+          查看对正在编译的函数 模板 实例化“void wunderSVD3x3<float>(const Eigen::Matrix<float,3,3,0,3,3> &,Eigen::Matrix<float,3,3,0,3,3> &,Eigen::Matrix<float,3,1,0,3,1> &,Eigen::Matrix<float,3,3,0,3,3> &)”的引用
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(61,31): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(62,34): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(62,31): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(63,36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(63,33): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(78,1): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+D:\GenPD\GenPD\source\wunderSVD\Singular_Value_Decomposition_Kernel_Declarations.hpp(79,1): warning C4305: “=”: 从“double”到“float”截断
+  (编译源文件“source/wunderSVD/WunderSVD3x3.cpp”)
+  
+  正在生成代码...
+  stb_image.c
+D:\GenPD\GenPD\source\stb_image.c(760,36): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\GenPD\GenPD\source\stb_image.c(773,36): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  stb_image_write.c
+D:\GenPD\GenPD\source\stb_image_write.h(326,25): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  (编译源文件“source/stb_image_write.c”)
+  
+  正在生成代码...
+  GenPD.vcxproj -> D:\GenPD\x64\Debug\GenPD.exe
